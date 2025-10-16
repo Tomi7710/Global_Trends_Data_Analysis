@@ -1,4 +1,4 @@
-# Olympics
+# Performance data analysis
 Data analysis on modern Olympic Games, from Athens 1896 to Rio 2016.
 
 # Background
