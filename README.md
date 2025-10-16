@@ -1,13 +1,10 @@
-# Performance data analysis
-Data analysis on modern Olympic Games, from Athens 1896 to Rio 2016.
+# Trends and Performance Insights
 
-# Background
+For this project, I performed exploratory data analysis on Olympic games data to examine trends in athlete performance, medal distribution and the evolution of participation patterns across countries and genders.
 
-The Olympic Games is a major international multi-sport event normally held once every four years. This is a historical dataset which contains information on the Olympics from its inaugural games in Athens, Greece 1896 to Rio 2016 based on name, sex, age, height, weight, team, games, year, season, city, sport, event and medal.
+The libraries used for this analysis include Pandas, seaborn and Matplotlib.
 
-For this project, I explored the dataset to determine what year and city the Netherlands team won the highest number of medals in their history. I also created a visualisation plot using Seaborn and MatPlotlib to determine the relationship between the number of athletes countries sent to an event and the number of medals they won. The libraries used for this analysis include Pandas, seaborn and Matplotlib.
-
-# Final Result
+# Result: The relationship between athletes and medals
 
 ![image](https://github.com/TomisinOlofinjana/Olympic-Games/assets/128741298/9dfadbfd-955a-4986-a159-f5629a1e1ecd)
 
