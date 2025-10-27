@@ -2,7 +2,7 @@
 
 
 #### Overview
-This project is an exploratory data analysis of global data, examining trends in performance, outcome distribution and participation patterns across countries and genders. The analysis uncovers patterns and insights that demonstrate the impact of participation on performance over time.
+This project is an exploratory data analysis of global data, examining trends in performance, outcome distribution and participation patterns across countries and genders. The analysis identifies trends and patterns, revealing correlations between participation metrics and performance outcomes over time.
 
 
 #### Tools & Libraries
@@ -21,7 +21,8 @@ This project is an exploratory data analysis of global data, examining trends in
 
 
 #### Insights
-The analysis shows a clear link between team size and performance across countries.
-- A positive correlation exists between team size and medal count — larger teams tend to achieve higher performance
-- Increased participation appears to enhance overall performance at global events.
-- Data patterns highlight key shifts in performance outcomes across events and over time.
+The exploratory data analysis reveals clear trends and patterns linking participation metrics to performance outcomes across countries.
+
+- A positive correlation exists between team size and performance metrics, indicating that larger teams generally achieve higher success.
+- Increased participation is associated with improved overall outcomes in global events.
+- Longitudinal data patterns highlight key shifts in performance trends and outcomes across countries and time periods.
