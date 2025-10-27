@@ -1,4 +1,4 @@
-### Exploratory Data Analysis of Historical and Global Performance Trends
+#### Exploratory Data Analysis of Historical and Global Performance Trends
 
 
 #### Overview
