@@ -2,17 +2,17 @@
 
 
 #### Overview
-This project is an exploratory data analysis of Olympic Games data, examining trends in athlete performance, medal distribution and participation patterns across countries and genders.
+This project is an exploratory data analysis of global data, examining trends in performance, outcome distribution and participation patterns across countries and genders. The analysis uncovers patterns, correlations and insights that demonstrate the impact of participation on performance over time.
 
 
 #### Tools & Libraries
-- Python
+- Python - data analysis and manipulation
   - Pandas - data cleaning, transformation and aggregation
   - Seaborn and Matplotlib - data visualization
 
 
 
-#### Sample Result: The relationship between athletes and medals
+#### Sample Result: The scatter plot below illustrates the relationship between team size and medal count
 
 
 
@@ -22,6 +22,6 @@ This project is an exploratory data analysis of Olympic Games data, examining tr
 
 #### Insights
 The analysis shows a clear link between team size and performance across countries.
-- A positive correlation exists between team size and medal count — larger teams tend to win more medals.
-- Broader participation appears to enhance overall performance at global events.
-- Data patterns highlight key shifts in performance outcomes across events and time.
+- A positive correlation exists between team size and medal count — larger teams tend to achieve higher performance
+- Increased participation appears to enhance overall performance at global events.
+- Data patterns highlight key shifts in performance outcomes across events and over time.
