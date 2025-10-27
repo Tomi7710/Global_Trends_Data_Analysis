@@ -1,7 +1,9 @@
 ### Global Data Trends Analysis
 
+
 #### Overview
 This project is an exploratory data analysis of Olympic Games data, examining trends in athlete performance, medal distribution and participation patterns across countries and genders.
+
 
 #### Tools & Libraries
 - Python
@@ -15,6 +17,7 @@ This project is an exploratory data analysis of Olympic Games data, examining tr
 
 
 ![image](https://github.com/TomisinOlofinjana/Olympic-Games/assets/128741298/9dfadbfd-955a-4986-a159-f5629a1e1ecd)
+
 
 
 #### Insights
