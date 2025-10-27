@@ -12,7 +12,7 @@ This project is an exploratory data analysis of global data, examining trends in
 
 
 
-#### Sample Result: The scatter plot below illustrates the relationship between team size and medal count
+#### Result: The scatter plot below illustrates the relationship between team size and medal count
 
 
 
