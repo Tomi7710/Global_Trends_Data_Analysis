@@ -1,18 +1,27 @@
-#### Trends and Performance Insights
+### Trends and Performance Insights
 
 For this project, I performed exploratory data analysis on Olympic games data to examine trends in athlete performance, medal distribution and the evolution of participation patterns across countries and genders.
 
-The libraries used for this analysis include Pandas, seaborn and Matplotlib.
+#### Tools & Libraries
+- Python
+  - Pandas - data cleaning, transformation and aggregation
+  - Seaborn and Matplotlib - data visualization
+
+#### Insights
+- Participation size strongly correlates with medal success.  
+- Historical trends reveal how national investment impacts performance.  
+- Data visualization highlights major shifts across time.
 
 
-
-
-#### Result: The relationship between athletes and medals
+#### Sample Result: The relationship between athletes and medals
 
 
 
 ![image](https://github.com/TomisinOlofinjana/Olympic-Games/assets/128741298/9dfadbfd-955a-4986-a159-f5629a1e1ecd)
 
 
-
-We observe that the data points are clustered closely in the lower left corner meaning most countries send fewer athletes to events and win fewer medals. The above findings suggest that when the number of athletes increases, the number of medals increases for each country. Therefore, an increase in the number of athletes will lead to an increase in the number of medals for various events in each country.
+#### Insights
+The analysis shows a clear link between participation and performance across countries.
+- Most countries send few athletes and win few medals.
+- A positive correlation exists between team size and medal count — larger teams tend to win more medals.
+- Broader participation appears to enhance overall performance at global events.
