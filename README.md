@@ -2,7 +2,7 @@
 
 
 #### Overview
-This project is an exploratory data analysis of global data, examining trends in performance, outcome distribution and participation patterns across countries and genders. The analysis uncovers patterns, correlations and insights that demonstrate the impact of participation on performance over time.
+This project is an exploratory data analysis of global data, examining trends in performance, outcome distribution and participation patterns across countries and genders. The analysis uncovers patterns and insights that demonstrate the impact of participation on performance over time.
 
 
 #### Tools & Libraries
